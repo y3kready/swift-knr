@@ -3,8 +3,6 @@
 <p align="center">
   <img src="./img/swift-hero.png" alt="Bird">
   <br>
-  <img src="./img/swift-text.png" alt="Swift" width="160px">
-  <br>
 </p>
 
 ### Learn Swift the right way
