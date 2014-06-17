@@ -1,5 +1,12 @@
 # swift-knr
 
+<p align="center">
+  <img src="./img/swift-hero.png" alt="Bird">
+  <br>
+  <img src="./img/swift-text.png" alt="Swift" width="160px">
+  <br>
+</p>
+
 ### Learn Swift the right way
 This is my learning experience on Swift using code examples in the book "The C Programming language" affectionately known as KNR 'C' textbook
 
