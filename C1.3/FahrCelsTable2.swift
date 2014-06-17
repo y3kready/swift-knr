@@ -9,3 +9,4 @@ var fahr: Float = 0
 for fahr; fahr <= 300; fahr = fahr + 20 {
 	println("\(Int(fahr))" + "\t" + String(format:"%.2f",((5.0/9.0)*(fahr-32))))
 }
+
