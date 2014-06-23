@@ -1,5 +1,5 @@
 #!/usr/bin/env xcrun swift -i
-//Chapter 1.5 - CharCount.swift
+//Chapter 1.5.2 - CharCount.swift
 //Count the characters in the input
 //can be run directly from command line
 
